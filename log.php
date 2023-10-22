@@ -39,7 +39,7 @@
             </div> -->
             <div class="mb-3 col-12 col-md-4">
                 <button type="submit" class="btn btn-secondary">Войти</button>
-                <a href="reg.html">Зарегистрироваться</a>
+                <a href="reg.php">Зарегистрироваться</a>
             </div>
             
         </form>

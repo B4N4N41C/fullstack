@@ -2,7 +2,7 @@
 
 $driver = 'mysql';
 $host = 'localhost';
-$db_name = 'fullstack';
+$db_name = 'mydb';
 $db_user = 'root';
 $db_pass = 'root';
 $charset = 'utf8';
